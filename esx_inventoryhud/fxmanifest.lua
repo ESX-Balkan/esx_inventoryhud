@@ -16,8 +16,7 @@ server_scripts {
 
 client_scripts {
   "@es_extended/locale.lua",
-  "client/main.lua",
-  "client/shop.lua",	
+  "client/main.lua",	
   "client/trunk.lua",
   "client/glovebox.lua",
   "client/beds.lua",
