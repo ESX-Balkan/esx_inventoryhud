@@ -8,7 +8,7 @@ Config.OpenControl = 289 -- Key for opening inventory. Edit html/js/config.js to
 Config.CloseControl = 200
 
 -- List of item names that will close ui when used
-Config.CloseUiItems = {"phone", "weed_seed", "tunerchip", "fixkit", "medikit"} -- Add your own items here!
+Config.CloseUiItems = {"phone", "weed_seed", "tunerchip", "fixkit", "medikit", "fixtool"} -- Add your own items here!
 
 Config.ShopBlipID = 52
 Config.LiquorBlipID = 93
