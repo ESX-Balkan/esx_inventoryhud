@@ -3,8 +3,6 @@
 ![welcome](https://www.dutch-players.nl/wp-content/uploads/2020/06/dutchplayers_welcome-1024x64.png)
 Report hackers and hackwebsites please.
 
-The latest MySQL plugin is breaking this resource! Only use: https://github.com/dutchplayers/fivem-mysql-async
-
 We have edited the original esx_inventoryhud resource from Trsak.
 
 This inventory only works with the latest version of ESX.
