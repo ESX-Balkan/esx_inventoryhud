@@ -1,5 +1,5 @@
 Config = {}
-Config.Locale = 'nl'
+Config.Locale = 'en'
 Config.IncludeCash = true -- DONT TOUCH!
 Config.IncludeWeapons = true -- TRUE or FALSE
 Config.IncludeAccounts = true -- TRUE or FALSE
