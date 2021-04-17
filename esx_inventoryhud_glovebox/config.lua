@@ -7,7 +7,7 @@ Config.AllowPolice = true -- If true, police will be able to search players' glo
 
 Config.Locale = "en"
 
-Config.OpenKey = 170
+Config.OpenKey = 182
 
 -- Limit, unit can be whatever you want. Originally grams (as average people can hold 25kg)
 Config.Weight = 1000
